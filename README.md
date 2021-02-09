@@ -1,4 +1,4 @@
-<h2> NOTES APP </h2>
+<h1> NOTES APP </h1>
 
 
 how
